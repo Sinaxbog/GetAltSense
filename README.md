@@ -45,7 +45,7 @@ AltSense operates on a simple **Credit System** (**1 Credit = 1 Image Alt-Text G
 | **Pro Pack** | $19.00 | 600 | $0.031 |
 | **Agency Bulk** | $49.00 | 2,000 | $0.024 |
 
-New users receive **50 complimentary credits** upon sign-up to test the full feature set.
+New users receive **10 complimentary credits** upon sign-up to test the full feature set.
 
 ---
 
