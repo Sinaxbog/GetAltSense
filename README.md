@@ -58,6 +58,6 @@ New users receive **50 complimentary credits** upon sign-up to test the full fea
 
 ### Contact and Support
 
-* **Official Website & Documentation:** [Link to your AltSense website]
-* **Support/Sales:** todorovic.sinisa@mail.com
+* **Official Website & Documentation:** https://getaltsense.com/
+* **Support/Sales:** support@getaltsense.com
 * **License:** This project is licensed under the MIT License.
