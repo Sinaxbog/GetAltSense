@@ -11,8 +11,7 @@
 <br>
 
 <p align="center">
-  <!-- Replace with your real screenshot or demo GIF -->
-  <img src="https://imgur.com/a/2OFMUQl" alt="AltSense Dashboard Preview" width="800"/>
+  <img src="https://i.imgur.com/eDUV5qh.png" alt="AltSense Dashboard Preview" width="800"/>
 </p>
 
 ---
