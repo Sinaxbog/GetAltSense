@@ -127,10 +127,3 @@ No data is used for training. Ever.
 Website: https://getaltsense.com
 
 Support: support@getaltsense.com
-
-Issues: Open a GitHub Issue anytime.
-
-📄 License
-
-This project is licensed under the MIT License.
-See the LICENSE file for details.
